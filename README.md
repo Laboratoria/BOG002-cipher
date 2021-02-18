@@ -140,6 +140,19 @@ La interfaz debe permitir al usuario:
 * Insertar un mensaje (texto) a descifrar.
 * Ver el resultado del mensaje descifrado.
 
+### UX (Diseño de experiencia de usuario)
+
+Antes de iniciar a codear, debes entender el problema que quieres solucionar y
+cómo tu aplicación lo soluciona.
+
+* Trabaja tu primer prototipo con papel y lápiz (blanco y negro).
+* Luego valida esta solución con una compañera (pedir feedback).
+* Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un
+  nuevo prototipo usando alguna herramienta para diseño de prototipos
+  ([Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/),
+  [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)
+Estos puntos los presentarás en el `README.md`.
+
 ### Scripts / Archivos
 
 * `README.md`: debe explicar cómo descargar, instalar y ejecutar la aplicación
